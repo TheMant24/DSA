@@ -1,1 +1,1 @@
-# This is the repository for my DSA practice and also learning git integration side by side
+# This repository named Master-DSA is the tracker for my jouney where i am learning DSA from basics to advance
