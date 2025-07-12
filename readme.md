@@ -51,10 +51,11 @@ Welcome to my comprehensive repository for Data Structures and Algorithms (DSA)!
 ├── LinkedList/
 ├── Trees/
 └── ...
+```
+## 🔗 Useful Links
 
-🔗 Useful Links
-	•	📺 [DSA_Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
-	•	🧮 [LeetCode_Profile](https://leetcode.com/u/Dd7qJNTGsG/)
+- 📺 *DSA Playlist:* [Striver's DSA Sheet on YouTube](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
+- 🧮 *LeetCode Profile:* [leetcode.com/u/Dd7qJNTGsG](https://leetcode.com/u/Dd7qJNTGsG/)
 
 
 🙌 Contributing
