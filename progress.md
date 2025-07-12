@@ -1,6 +1,7 @@
 # 📈 Striver’s A2Z DSA Progress Tracker
 
 Track your progress through the playlist by checking off videos as you complete them!
+Don't try to open any link from below for the time being, it is just a dummy. I will update on the journey ahead
 
 ---
 
